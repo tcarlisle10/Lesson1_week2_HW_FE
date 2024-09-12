@@ -1,0 +1,31 @@
+body {
+    background-color: deepskyblue;
+    
+}
+
+footer {
+    background-color: gray;
+}
+
+.ingredients {
+    border: 1px solid black;
+}
+
+h3 {
+    padding-left: 15px;
+    text-decoration: underline;
+}
+
+a:hover {
+    filter: grayscale(0)
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+header {
+    background-color: dimgrey;
+    margin: 20px;
+    text-align: center;
+}
